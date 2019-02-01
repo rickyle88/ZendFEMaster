@@ -1,0 +1,14 @@
+.div{
+    border: 1px solid black;
+    padding: 3px;
+    /* Convert block level to inline level
+    float: left;
+    */
+    /* Convert block level to inline level*/
+    display: inline;
+}
+
+.span{
+    border: 1px solid black;
+    padding: 3px;
+}

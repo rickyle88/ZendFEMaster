@@ -1,0 +1,12 @@
+.div{
+    border: 1px solid black;
+    padding: 3px;
+  
+}
+
+.span{
+    border: 1px solid black;
+    padding: 3px;
+    /* Convert inline level to block level*/
+    display: block;
+}
